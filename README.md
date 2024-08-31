@@ -1,7 +1,4 @@
 
-
-
-
 # Number Guessing Game
 
 Welcome to the Number Guessing Game! This is a simple and interactive web-based game where users try to guess a randomly generated number within a specified range. The game provides feedback on the user's guesses and tracks the number of attempts.
@@ -18,14 +15,7 @@ Welcome to the Number Guessing Game! This is a simple and interactive web-based 
 
 To run this project locally on your computer, follow these steps:
 
-
-1. **Navigate to the Project Directory**
-
-   ```sh
-   cd number-guessing-game
-   ```
-
-2. **Open the Project**
+1. **Open the Project**
 
    Open `index.html` in your preferred web browser to start playing the game.
 
